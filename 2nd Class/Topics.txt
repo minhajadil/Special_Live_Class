@@ -1,0 +1,66 @@
+Revision: 
+==========================================================================================
+Prerequisites : 
+1.Relation operator
+  -> less than (<) , less than or equal (<=)
+  -> greater than (>) , greater than or equal (>=)
+  -> equal to (==) 
+  -> not equal (!=)
+
+2 Logical operator
+  -> AND (&&)
+  -> OR (||)  
+
+3. if else 
+   -> if else ladder
+   -> nested if else
+
+
+Problem solving (Conditional) :
+1. I. Lucky Numbers (https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
+   -> corner case handling
+2. C. Next Alphabet ( https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C)
+   -> Better understanding of Ascii table and int to char conversion + handling of corner cases
+3. Ali baba and Puzzles (https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) 
+   -> thinking skill , operators and data types
+
+==================================================================================================
+
+4 . Loop 
+  -> for Loop
+  -> while Loop
+  + how to think of starting and ending of a loop
+
+
+Problem solving (loop + conditional) : 
+1. Divisors(https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)
+  -> loop tracker + conditional
+2. Max Min ( https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)
+   -> loop
+3 Fixed Password (https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) 
+   -> better understanding of EOF
+4. Digits ( https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
+   -> better understanding of digit extraction + testcases
+
+==========================================================================================
+
+5. Arrays 
+  -> How to declare
+  -> How to access the elements
+  -> how to take inputs
+  -> Proper understanding of indexing.
+
+
+Problem Solving (Arrays)
+1.Summation https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A
+  -> better understanding of array elements and indexing
+2. Replacement https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C
+  -> better understanding of accesing and assigning a value on array 
+3.Reversing https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F
+ -> Printing reverse of an array
+
+===========================================================================================
+
+** Assignment Hints ** 
+Link: https://docs.google.com/document/d/1fe2OJ-lmJ6Xdg0vouV7-EDg4yW9T-wjYVFw1xtKUpyo/edit?usp=sharing
+
