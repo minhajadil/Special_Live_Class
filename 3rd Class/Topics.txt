@@ -1,0 +1,24 @@
+Array Operations :
+1. Insertion
+2. Deletion
+3. Reversing
+
+String :
+1. Declaration
+2. Length of the String
+
+
+Practice Problem :
+1. Conversion ( https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G )
+2. Strings ( https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D )
+
+String Operations :
+1. String comparison
+2. Frequency Array 
+
+Practice Problem :
+1. Count letters ( https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)
+2. Sum Digits ( https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K )
+
+
+**  MID TERM HINTS ** 
