@@ -17,10 +17,10 @@ Starts with a basic problem
 Function :
 1. Basic defination 
 2. 4 types 
-   i) parameter + return type
-   ii)parameter + no return type 
-   iii) no parameter + return type
-   iv) no parameter + no return type
+   i) parameter + return type -> main theke input o nibo , main e print o korbo
+   ii)parameter + no return type -> main theke input , print korbo function tar moddhei
+   iii) no parameter + return type -> input nibo function e , ans ta print korbo main e.
+   iv) no parameter + no return type -> input o nibo function e , return korbo o function e.
 3. Basic of pointers
 4. Passing array and string to Function
 
