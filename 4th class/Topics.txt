@@ -1,0 +1,31 @@
+4th Class Topics :
+
+Nested Loop :
+Starts with a basic problem
+1. Pattern 1 (https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T)
+2. Pattern 2 ( https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W )
+3. 1
+   21
+   321
+   4321
+   54321
+
+4. Finding a target sum using two values of the array
+5. Sorting
+
+
+Function :
+1. Basic defination 
+2. 4 types 
+   i) parameter + return type
+   ii)parameter + no return type 
+   iii) no parameter + return type
+   iv) no parameter + no return type
+3. Basic of pointers
+4. Passing array and string to Function
+
+Practice : 
+1. solving this problem with 4 types of function 
+https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G
+
+** Assignment 3 Hints and Sudo Code **  

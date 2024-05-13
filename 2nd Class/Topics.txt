@@ -24,6 +24,7 @@ Problem solving (Conditional) :
    -> Better understanding of Ascii table and int to char conversion + handling of corner cases
 3. Ali baba and Puzzles (https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) 
    -> thinking skill , operators and data types
+4. G. Katryoshka (https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G)
 
 ==================================================================================================
 
@@ -65,4 +66,3 @@ Problem Solving (Arrays)
 
 ** Assignment Hints ** 
 Link: https://docs.google.com/document/d/1fe2OJ-lmJ6Xdg0vouV7-EDg4yW9T-wjYVFw1xtKUpyo/edit?usp=sharing
-

@@ -3,7 +3,17 @@
 
 int main(){
 
-    printf("%d",1234%100) ;
+    int a[5] ;
+
+    for(int i =0 ;i<5 ;i++){
+       scanf("%d",&a[i]) ;
+    }
+
+    for(int i =0 ;i<5 ;i++){
+        printf("%d %d\n",i,a[i]) ;
+    }
+
+
 
 
 
