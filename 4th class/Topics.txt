@@ -21,8 +21,7 @@ Function :
    ii)parameter + no return type -> main theke input , print korbo function tar moddhei
    iii) no parameter + return type -> input nibo function e , ans ta print korbo main e.
    iv) no parameter + no return type -> input o nibo function e , return korbo o function e.
-3. Basic of pointers
-4. Passing array and string to Function
+3. Passing array and string to Function
 
 Practice : 
 1. solving this problem with 4 types of function 
