@@ -1,0 +1,39 @@
+Special live class on week 1 
+
+C++ Basics 
+1. Input /Output 
+2. char array (string) input , output , getline ,getchar
+3. min(),max() ,swap() function 
+
+Practice : 
+1. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E (max problem)
+
+Dynamic Memory :
+1. Why we need it.
+2. How to declare it.
+3.changing the size of the memory , deleting the memory
+4. Dynamic memory in a function
+
+Practice : 
+1. Module 2.5 , practice problem 1
+
+
+Class and Object
+1. what is class and Object
+2. how to declare a class
+3. how to declare an Object
+
+Practice : 
+1. Module 3.5 Practice Problem 1
+
+
+** Sort ** ( builtin function)
+-> Ascending 
+-> Descending 
+
+Practice Problem : 
+1. https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H -> array sorting
+2. String sorting 
+
+
+** Mid Term Hints ** 
