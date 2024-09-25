@@ -3,8 +3,8 @@ using namespace std;
 
 const int N = 1e3 + 10;
 bool vis[N][N];
-int dx[4] = {-1, 1, 0, 0}; // row er move
-int dy[4] = {0, 0, 1, -1}; // col er move
+int dx[4] = {-1, 0, 1, 0}; // row er move
+int dy[4] = {0, 1, 0, -1}; // col er move
 map<pair<int, int>, pair<int, int>> par;
 
 int n, m;
@@ -65,20 +65,24 @@ int main()
     }
     bfs(0, 0);
 
-    if (vis[2][2])
+    int sti = par[{2, 2}].first, stj = par[{2, 2}].second;
+
+    while (graph[sti][stj] != 'A')
     {
-        int xi = 2;
-        int xj = 2;
-        while (true)
-        {
-            int newXi = par[{xi, xj}].first;
-            int newXj = par[{xi, xj}].second;
-            xi = newXi;
-            xj = newXj;
-            if (graph[xi][xj] == 'A')
-                break;
-            graph[xi][xj] = 'X';
-        }
+
+        graph[sti][stj] = 'X';
+
+        // sti = par[{sti, stj}].first;  // sti is changing
+        // stj = par[{sti, stj}].second; // we are using sti here again.
+        // // which were causing the problem
+
+        int Nsti = par[{sti, stj}].first;
+        stj = par[{sti, stj}].second;
+
+        // this time it wont cause any problem
+
+        sti = Nsti;
+        // now we will update the value of sti
     }
 
     for (int i = 0; i < n; i++)
