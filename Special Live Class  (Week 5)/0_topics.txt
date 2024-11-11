@@ -1,0 +1,14 @@
+Topics 
+
+1. Basic Algebra and Proper Data types
+2. Checking if a matrix is square matrix
+3. Creating a scaler matrix of size N , where each element of the diagonal would be X
+4. Matrix elements swapping related
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W 
+
+5. Given a matrix , make each of the column similar using minimum number of operation. 
+the matrix only contains of number 1,2,3. 
+
+
+
+C Programming Final Exam Hints. 
